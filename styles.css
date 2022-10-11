@@ -73,3 +73,13 @@ body{
     align-items: center;
    background-color:  rgb(44, 39, 39);
 }
+
+#buttons-container button:hover{
+    background-color:  rgb(61, 54, 54);
+    border: 1px solid white;
+}
+
+#buttons-container #equal:hover{
+    background-color:  rgb(68, 64, 64);
+    border: 1px solid white;
+}
